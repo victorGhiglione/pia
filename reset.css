@@ -50,3 +50,9 @@ a {
         display: none;
     }
 }
+
+:root {
+    --yellow: #EEE545;
+    --black: #1E1E1E;
+    --white: #fff;
+}
